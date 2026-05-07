@@ -1,9 +1,26 @@
 # Blender Controls for Godot 4
 
-Blender-style G/R/S controls for Godot.
+Blender-style transform controls for Godot.
 
-Install in:
+## Features
+- G / R / S transforms
+- Axis locking
+- Numeric input
+- Pivot rotation
+- Snap support
+- Trackball rotation
+
+## Installation
+Copy the addon into:
 addons/Blender_Controls
 
-Enable in:
+Enable:
 Project > Plugins
+
+## Controls
+G = Move
+R = Rotate
+S = Scale
+X/Y/Z = Axis lock
+Esc/RMB = Cancel
+LMB/Enter = Confirm
