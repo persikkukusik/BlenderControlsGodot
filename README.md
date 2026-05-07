@@ -1,2 +1,9 @@
-# BlenderControlsGodot
-A plugin for godot that adds shorcuts for object transforms such as positioning (G), rotation (R) and scale (S), replicating blender's shortcuts.
+# Blender Controls for Godot 4
+
+Blender-style G/R/S controls for Godot.
+
+Install in:
+addons/Blender_Controls
+
+Enable in:
+Project > Plugins
